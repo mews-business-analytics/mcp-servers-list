@@ -1,4 +1,4 @@
-# MCP Servers for Cursor: Enhancing Your AI Coding Experience
+# MCP Servers for Cursor: Enhancing the AI Coding Experience
 
 This repository provides an overview of various Model-Command-Program (MCP) servers that can be used with [Cursor](https://cursor.sh/), an AI-first code editor. MCP servers extend Cursor's capabilities by allowing the AI to interact with external tools, services, and data sources, leading to a more powerful and context-aware coding assistant.
 
