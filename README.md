@@ -30,6 +30,9 @@ Below is a list of some useful MCP servers, their purposes, and links to their s
 
 ## Databricks MCP Server
 
+> 🌟 **TEAM CRITICAL RESOURCE** 🌟  
+> This MCP server is absolutely essential for everyone on the business analytics team. It's a complete game-changer for our data workflows and dramatically enhances our ability to analyze and create data solutions.
+
 *   **Purpose**: Enables interaction with Databricks environments.
 *   **GitHub Repository**: [mews-business-analytics/databricks-mcp-server](https://github.com/mews-business-analytics/databricks-mcp-server)
 *   **Key Capabilities & Tools**:
@@ -45,6 +48,14 @@ This MCP server is particularly beneficial for teams using Databricks alongside 
 *   Inspecting data while developing dbt models.
 *   Migrating legacy views into a dbt-managed structure.
 *   Quickly querying data for ad-hoc analysis during development.
+*   Performing deep data analysis that identifies underlying trends and patterns, then enables interactive digging into these patterns to answer complex business questions.
+*   Creating entirely new tables derived from existing Databricks or dbt sources without leaving your coding environment.
+*   Building complete new data pipelines by leveraging Databricks table definitions and sample data as foundations.
+*   Rapidly prototyping analytics solutions by combining on-the-fly queries with immediate visualization review.
+*   Testing hypotheses about data relationships through iterative querying and refinement with AI guidance.
+*   Optimizing existing query performance by analyzing execution plans and exploring alternative approaches.
+*   Enabling cross-functional data exploration where team members can collaborate on the same datasets in real-time.
+*   Documenting data lineage and dependencies through systematic schema examination and metadata collection.
 
 ## GitHub MCP Servers
 
